@@ -10,8 +10,7 @@ class Bio extends SoftwareDeveloper {
   title    = 'Software Developer';
   location = 'Sousse, Tunisia';
   bio      = 'Passionate developer with a love for building impactful software solutions.';
-  linkedin = 'https://www.linkedin.com/in/yhoussef'; // Add your LinkedIn profile
-  github    = 'https://github.com/yhoussef'; // Add your GitHub profile
+  github    = 'https://github.com/yhoussef'; 
 }
 
 languages  = ['JavaScript', 'TypeScript', 'Rust', 'Python', 'Golang', 'Java'];
