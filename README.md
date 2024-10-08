@@ -12,8 +12,8 @@ class Bio extends SoftwareDeveloper {
   bio      = 'Passionate developer with a love for building impactful software solutions.';
   github    = 'https://github.com/yhoussef'; 
 }
-
-languages  = ['JavaScript', 'TypeScript', 'Rust', 'Python', 'Golang', 'Java'];
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'TypeScript', 'Rust', 'Python', 'Golang', 'Java'];
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL', 'Chroma', 'Weaviate'];
   frameworks = [
     'React',
