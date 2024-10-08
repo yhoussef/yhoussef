@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/yhoussef/yhoussef/blob/main/profilethumb.png" />
+</p>
 
 ```js
 import { SoftwareDeveloper } from '@yhoussef';
@@ -23,7 +26,7 @@ languages  = ['JavaScript', 'TypeScript', 'Rust', 'Python', 'Golang', 'Java'];
     'Rocket',
     'Axum'
   ];
-  tools      = [
+  tools = [
     'Docker',
     'Kubernetes',
     'Git',
