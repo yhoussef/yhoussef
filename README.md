@@ -1,16 +1,47 @@
-## Hi there 👋
 
-<!--
-**yhoussef/yhoussef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+import { SoftwareDeveloper } from '@yhoussef';
 
-Here are some ideas to get you started:
+class Bio extends SoftwareDeveloper {
+  name     = 'Youssef Ha';
+  title    = 'Software Developer';
+  location = 'Sousse, Tunisia';
+  bio      = 'Passionate developer with a love for building impactful software solutions.';
+  linkedin = 'https://www.linkedin.com/in/yhoussef'; // Add your LinkedIn profile
+  github    = 'https://github.com/yhoussef'; // Add your GitHub profile
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+languages  = ['JavaScript', 'TypeScript', 'Rust', 'Python', 'Golang', 'Java'];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL', 'Chroma', 'Weaviate'];
+  frameworks = [
+    'React',
+    'Next.js',           
+    'React Native',
+    'Vue',
+    'Nuxt.js',           
+    'Spring',
+    'Rocket',
+    'Axum'
+  ];
+  tools      = [
+    'Docker',
+    'Kubernetes',
+    'Git',
+    'Jenkins',
+    'Express.js',        
+    'NestJS',            
+    'Gatsby',            
+    'SvelteKit',         
+    'Angular'            
+  ];
+  testingTools  = [
+    'Jest',              
+    'Mocha',             
+    'Cypress',           
+    'Selenium',          
+    'Pytest'             
+  ];
+  methodologies = ['Scrum', 'DevOps']; 
+}
+
+```
