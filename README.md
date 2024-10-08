@@ -23,6 +23,7 @@ languages  = ['JavaScript', 'TypeScript', 'Rust', 'Python', 'Golang', 'Java'];
     'Nuxt.js',           
     'Spring',
     'Rocket',
+    'SvelteKit',
     'Axum'
   ];
   tools = [
@@ -32,9 +33,6 @@ languages  = ['JavaScript', 'TypeScript', 'Rust', 'Python', 'Golang', 'Java'];
     'Jenkins',
     'Express.js',        
     'NestJS',            
-    'Gatsby',            
-    'SvelteKit',         
-    'Angular'            
   ];
   testingTools  = [
     'Jest',              
